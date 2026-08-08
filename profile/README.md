@@ -34,7 +34,8 @@ Then ask the agent to add glasses features to your app — it discovers the SDK 
 | Component | Where |
 |---|---|
 | MCP server | [`@extentos/mcp-server`](https://www.npmjs.com/package/@extentos/mcp-server) on npm · [releases & issues](https://github.com/extentos/mcp-server) |
-| Android SDK | [`com.extentos:glasses`](https://central.sonatype.com/artifact/com.extentos/glasses) on Maven Central |
+| Android SDK | [`com.extentos:glasses`](https://central.sonatype.com/artifact/com.extentos/glasses) on Maven Central · [install & issues](https://github.com/extentos/android-glasses) |
+| iOS SDK | [`swift-glasses`](https://github.com/extentos/swift-glasses) Swift package · lockstep version, one shared Rust core |
 | Browser simulator | [How it works](https://extentos.com/docs/concepts/transport-vs-app) — the same SDK code as production with only the transport swapped |
 | Documentation | [extentos.com/docs](https://extentos.com/docs) |
 
