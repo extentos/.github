@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://extentos.com/docs
+    about: Guides, SDK reference, and the MCP tools reference
+  - name: Support and self-service diagnostics
+    url: https://extentos.com/docs/resources/support
+    about: whoami, getEventLog, and validateIntegration resolve most issues without filing
+  - name: Security report
+    url: https://extentos.com/docs/resources/support#security-disclosure
+    about: Report a vulnerability privately by email. Please don't open a public issue
+  - name: Billing, account, or sales
+    url: https://extentos.com/contact
+    about: Anything involving your account or payment details belongs in the private form
